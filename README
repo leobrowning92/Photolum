@@ -3,6 +3,9 @@ The aim of this project is to take working code used for data analysis and simpl
 
 The python scripts can be run on any standard python interpreter.
 
+The file structure that is given should not be altered, and any additional data should be added to the SampleData directory. If the data is R-values then it should be placed in a tab delineated .txt file(Note that the TvR value files output by the Run.py script are already in this format). Runs of spectrasuit data should be placed in a folder whose name must be 7 characters long ie. LB00004. the text files outputted by the SpectraSuit program must be of the format LB00004_00001.txt as can be seen in the Sample data Folder.
+
+
 #############
 #  Modules  #
 #############

@@ -1,0 +1,23 @@
+.nfo file  :  LB00004_00004.nfo
+Int. time (us)  :  400000
+Name  :  LB00004_00004
+R  :  0.256593634219
+------Information from SpectraSuit Outport file------
+Run information from : LB00004_00004.txt
+The sample data is fromSampleData/LB00004/LB00004_00004.txtSpectraSuite Data File
+++++++++++++++++++++++++++++++++++++
+Date: Wed Jan 29 13:28:57 NZDT 2014
+User: radimdet
+Dark Spectrum Present: No
+Reference Spectrum Present: No
+Number of Sampled Component Spectra: 1
+Spectrometers: USB2G7029
+Integration Time (usec): 400000 (USB2G7029)
+Spectra Averaged: 1 (USB2G7029)
+Boxcar Smoothing: 0 (USB2G7029)
+Correct for Electrical Dark: Yes (USB2G7029)
+Strobe/Lamp Enabled: No (USB2G7029)
+Correct for Detector Non-linearity: No (USB2G7029)
+Correct for Stray Light: No (USB2G7029)
+Number of Pixels in Processed Spectrum: 2048
+------End Information from SpectraSuit Outport file------

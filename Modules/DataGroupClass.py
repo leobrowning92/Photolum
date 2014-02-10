@@ -33,7 +33,7 @@ class SSDataGroup(object):
             self.make_times()
         self.times=self.match_times()
         self.save_InfoRvt()
-        D
+        
                 
         
         

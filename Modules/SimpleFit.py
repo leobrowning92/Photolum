@@ -98,12 +98,12 @@ def fit1(x,y,title="Sample"):
     #above are for debugging, or where very accurate values are required
     
     
-    if os.path.isdir("plots")==False:
-        os.system("mkdir plots")
+    if os.path.isdir("SampleData/FittedPlots")==False:
+        os.system("mkdir SampleData/FittedPlots")
     
     
     name=title+".pdf"
-    fig.savefig("plots/"+name,format="pdf")
+    fig.savefig("SampleData/FittedPlots/"+name,format="pdf")
         
     
 
